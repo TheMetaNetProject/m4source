@@ -1,0 +1,13 @@
+*.pyc
+*.mat
+*.out
+data
+dicts
+gigaword_es
+*.lsi
+*.tfidf
+*.rp
+*.mm
+*.dict
+*.csv
+*.txt
